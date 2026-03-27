@@ -35,16 +35,16 @@ IoT 개발자과정 AI 활용법
 
 #### 시작
 
-1. [NotebookLM](https://notebooklm.google.com/) 접속
+1. [NotebookLM](https://notebooklm.google.com/) 접속 
 2. `새로 만들기` 클릭
 3. 필요한 웹사이트 링크나 자료 업로드
 
     ![alt text](image.png)
 
-    - 압축파일 업로드 불가
+    - 압축파일,  업로드 불가
 
-
-
+    ![alt text](image-1.png)
+    
 4. 출처, 채팅, 스튜디오 탭
     - 출처에서 필요한 자료 업로드
     - 채팅에서 LLM 대화진행
@@ -55,12 +55,14 @@ IoT 개발자과정 AI 활용법
     - 필요 웹사이트 체크
     - 가져오기 클릭
 
-    ![alt text](image-1.png)
+    ![alt text](image-2.png)
 
 6. 정리
     - 자료넣고,
-    - 질문하고,
+    - 질물하고,
     - 요약/정리 자료 생성(스튜디오 활용)
 
 7. 팁
-    - 구체적
+    - 자료 많이 입력할 수록 성능 업
+    - 질문 구체적으로
+    - "~처럼 만들어줘" 스타일 프롬프트 적용성 좋음
